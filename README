@@ -1,0 +1,11 @@
+Have you ever wanted to express online.
+That's what this basically is. A social scrapbooking 
+application in RoR. Add friends, create profiles,
+and share your photos on your own personal scrapbooking.
+You can upload photos directly from your own computer or over
+the cloud, or Dropbox.
+
+
+
+To use just download from source, compile, and use
+Heroku w/ Git.
